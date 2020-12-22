@@ -1,0 +1,12 @@
+﻿  Main.cpp
+d:\zju\三上\计算机图形学\solarsystem\lightup\lightup\shader.h(55): warning C4101: “e”: 未引用的局部变量
+d:\zju\三上\计算机图形学\solarsystem\lightup\lightup\planet.h(65): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\zju\三上\计算机图形学\solarsystem\lightup\lightup\main.cpp(80): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\zju\三上\计算机图形学\solarsystem\lightup\lightup\main.cpp(140): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\zju\三上\计算机图形学\solarsystem\lightup\lightup\main.cpp(141): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\zju\三上\计算机图形学\solarsystem\lightup\lightup\main.cpp(145): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\zju\三上\计算机图形学\solarsystem\lightup\lightup\main.cpp(146): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\zju\三上\计算机图形学\solarsystem\lightup\lightup\main.cpp(147): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\zju\三上\计算机图形学\solarsystem\lightup\lightup\main.cpp(148): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\zju\三上\计算机图形学\solarsystem\lightup\lightup\main.cpp(156): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LightUp.vcxproj -> D:\ZJU\三上\计算机图形学\SolarSystem\LightUp\Debug\LightUp.exe
